@@ -1,0 +1,348 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.challenge:spring-data-ddl >--------------------
+[INFO] Building spring-data-ddl 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:resources (default-resources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ spring-data-ddl ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:testResources (default-testResources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/gsantos/codenation/java-9/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ spring-data-ddl ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 12 source files to /home/gsantos/codenation/java-9/target/test-classes
+[INFO] /home/gsantos/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java: /home/gsantos/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java uses unchecked or unsafe operations.
+[INFO] /home/gsantos/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java: Recompile with -Xlint:unchecked for details.
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ spring-data-ddl ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.challenge.suite.ChallengeTestSuite
+08:11:00.482 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:00.649 [main] INFO org.reflections.Reflections - Reflections took 159 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:00.893 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:00.906 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:00.921 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:00.936 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:00.947 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:00.956 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:00.961 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:00.966 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:00.979 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:00.990 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:00.996 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.017 [main] INFO org.reflections.Reflections - Reflections took 20 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.023 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.029 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.034 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.043 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.049 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.057 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.066 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.084 [main] INFO org.reflections.Reflections - Reflections took 17 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.091 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.102 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.109 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.117 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.123 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.126 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.129 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.134 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.143 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.151 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.161 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.165 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.171 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.176 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.181 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.185 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.206 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.213 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.221 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.228 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.236 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.241 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.249 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.253 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.259 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.268 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.272 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.275 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.278 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.281 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.285 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.289 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.291 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.296 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.301 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.318 [main] INFO org.reflections.Reflections - Reflections took 15 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.321 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.337 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.347 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.352 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.359 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.368 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.372 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.375 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.378 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.388 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.393 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.396 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.398 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.403 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.405 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.407 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.414 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.416 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.420 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.427 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.429 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.432 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.437 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.440 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.452 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.455 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.457 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.470 [main] INFO org.reflections.Reflections - Reflections took 12 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.480 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.485 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.487 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.490 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.497 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.502 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.511 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.514 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.517 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.536 [main] INFO org.reflections.Reflections - Reflections took 19 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.539 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.541 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.547 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.551 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.556 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.559 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.565 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.570 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.579 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.582 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.584 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.587 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.588 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.599 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.602 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.604 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.606 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.608 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.615 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.618 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.631 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.634 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.636 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.639 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.641 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.643 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.648 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.657 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.664 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.669 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.677 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.682 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.688 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.700 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.701 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.708 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.710 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.713 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.715 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.718 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.723 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.726 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.728 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.730 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.731 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.734 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.736 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.739 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.741 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.743 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.745 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.747 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.748 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.754 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.757 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.760 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.763 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.765 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.773 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.777 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.780 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.785 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.790 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.792 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.794 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.796 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.800 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.805 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.809 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.810 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.816 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.819 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.822 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.824 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.827 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.829 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.834 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.836 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.837 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.840 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.843 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.848 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.850 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.852 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.853 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.856 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.859 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.867 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.869 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.870 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.882 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.884 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.885 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.888 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.889 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.891 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.892 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.894 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.895 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.897 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.898 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.899 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.901 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.903 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.906 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.911 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 22 values 
+08:11:01.912 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/gsantos/codenation/java-9/target/classes/
+08:11:01.914 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 5 keys and 22 values 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.341 s - in com.challenge.suite.ChallengeTestSuite
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  13.009 s
+[INFO] Finished at: 2020-05-23T08:11:02-03:00
+[INFO] ------------------------------------------------------------------------

@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans';
+}
+a{
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 30px;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+header{
+    background-color: rgb(120, 0, 255);
+    width: 100%;
+    height: auto;
+    line-height: 50px;
+    color: white;
+}
+.header-border{
+    width: 80%;
+    border-bottom: 1px solid #ccc;
+    margin: 0 auto;
+}
+.desafio{
+    width: 100%;
+    text-align: center; 
+}
+.desafio i{
+    margin-top: 10px;
+}
+.desafio p{
+    font-size: 20px;
+}
+form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 300px;
+    width: 500px;
+}
+form label{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+}
+form input[type=file]{
+    padding: 20px;
+}
+form .input-types{
+    width: 100%;
+    border: 1px solid #007bff;
+    text-align: center;
+}
+form .form-group{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 0 50px;
+}
+#submeter, #getText{
+    width: 100px;
+    height: 30px;
+    background-color: #17a2b8;
+    border: none;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    color: white;
+    float: right;
+    cursor: pointer;
+}
+#getText{
+    background-color: #dc3545;
+}
+.clear{
+    clear: both;
+}
